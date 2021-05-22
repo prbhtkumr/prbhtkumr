@@ -5,8 +5,7 @@
 </p>
 <h1 align="center"> Welcome to my profile!  </h1>
      
-
-----------
+---------
 
 <p><a>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=aerosol-can&show_icons=true&theme=midnight-purple" />
