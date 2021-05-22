@@ -9,10 +9,6 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aerosol-can&exclude_repo=file-converter&layout=compact" />
 </a></p>
 <br>
-<br>
-<br><br>
-<br><br>
-<br><br>
 
 ---------
 
