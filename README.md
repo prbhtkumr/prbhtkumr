@@ -29,8 +29,6 @@ Welcome to my profile!
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aerosol-can&exclude_repo=file-converter&layout=compact&theme=radical)
 
-![Profile Trophy](https://github-profile-trophy.vercel.app/?username=aerosol-can&theme=radical)
-
 ---------
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aerosol-can&repo=PhoneSploit)](https://github.com/aerosol-can/PhoneSploit)
