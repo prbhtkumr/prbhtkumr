@@ -13,7 +13,7 @@ Welcome to my profile!
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aerosol-can)  [<img 
                                                                                                                                                src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/prabhat-kumar-01464b193/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/aerosol-can.py/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/a3r0s0l_can)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://aerosol-can.github.io)
 
-#### I am Prabhat Kumar. I am a High-School Student from India. I also am a Python Developer actively looking to Contribute . I am currently working on my Data Structure and Algorithm Skills. I am a Cyber Security Enthusiast who likes playing CTFs. I am looking forward to certify as an OSCP.
+#### I am Prabhat Kumar. I am a CSE Fresher from India. I also am a Python Developer actively looking to Contribute . I am currently working on my Data Structure and Algorithm Skills. I am a Cyber Security Enthusiast who likes playing CTFs. I am looking forward to certify as an OSCP.
 
 ---------
 
