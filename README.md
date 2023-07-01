@@ -31,10 +31,4 @@ Welcome to my profile!
 
 ---------
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aerosol-can&repo=PhoneSploit)](https://github.com/aerosol-can/PhoneSploit)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aerosol-can&repo=ChatBot)](https://github.com/aerosol-can/ChatBot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aerosol-can&repo=The-Ortega-Project)](https://github.com/aerosol-can/The-Ortega-Project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aerosol-can&repo=file-converter)](https://github.com/aerosol-can/file-converter)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aerosol-can&repo=aerosol-can.github.io)](https://github.com/aerosol-can/aerosol-can.github.io)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aerosol-can&repo=Data-Structures-and-Algorithms)](https://github.com/aerosol-can/Data-Structures-and-Algorithms)
-
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G7MS0SJ)
