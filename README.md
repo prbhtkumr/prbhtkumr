@@ -1,10 +1,8 @@
-<h1>Hey.</h1>
-
+# Hey!
 <h4>$ whoami</h4>
-<div style="display:inline-block">
-<p style="display: inline;">
+<p>
   <samp>
-    🧭 Devops Engineer / Security <br>
+    🧭 Devops/Security Engineer <br>
     :house_with_garden: Currently based in India 🇮🇳 <br>
     :school: CSE VCET(MU) [2025] <br>
     :email:	<a href="mailto:prbh47kumr@gmail.com
@@ -12,20 +10,17 @@
     :briefcase: LinkedIn:  <a href="https://www.linkedin.com/in/prbhtkumar/">Prabhat Kumar</a> <br>
     :bird: Twitter:  <a href="https://twitter.com/a3r0s0l_can">a3r0s0l_can</a> <br>
     :cloud: TryHackMe: <a href="https://tryhackme.com/p/Cthulhu/">Cthulhu</a> <br>
-    </samp>
+  </samp>
 </p>
 
-![gif](https://i.imgur.com/BjgErxV.gif)
-</div>
-
 <p align="center">
-<img  alt="huin" height="32px" src="https://cdn.discordapp.com/emojis/766456038530482177.gif?size=64"/>
-<img  alt="Shell" height="32px" src="./media/shell.png"/>
-<img  alt="Git" height="32px" src="./media/git.png"/>
-<img  alt="Python" height="32px" src="./media/python.png"/>
-<img  alt="Arch" height="32px" src="./media/arch.png"/>
-<img  alt="Neovim" height="32px" src="./media/neovim.png"/>
-<img  alt="VSCode" height="32px" src="./media/vscode.png"/>
+  <img  alt="huin" height="32px" src="https://cdn.discordapp.com/emojis/766456038530482177.gif?size=64"/>
+  <img  alt="Shell" height="32px" src="./media/shell.png"/>
+  <img  alt="Git" height="32px" src="./media/git.png"/>
+  <img  alt="Python" height="32px" src="./media/python.png"/>
+  <img  alt="Arch" height="32px" src="./media/arch.png"/>
+  <img  alt="Neovim" height="32px" src="./media/neovim.png"/>
+  <img  alt="VSCode" height="32px" src="./media/vscode.png"/>
 </p>
 
 <details>
