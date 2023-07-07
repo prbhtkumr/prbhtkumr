@@ -37,7 +37,7 @@
     <img  alt="AWS" height="32px" src="./media/aws.png"/>
 </p>
 
-![asdn](./profile-3d-contrib/profile-green-animate.svg)
+![GitHub 3D Contribution Graph](./profile-3d-contrib/profile-green-animate.svg)
 
 </details>
 
@@ -45,6 +45,8 @@
 <summary><kbd>more info</kbd></summary>
 
 ![GitHub metrics](https://metrics.lecoq.io/aerosol-can)
+
+![Profile Views](https://komarev.com/ghpvc/?username=aerosol-can&label=Profile%20views&color=0e75b6&style=flat)
 
 </details>
 
@@ -54,7 +56,6 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G7MS0SJ)
 =======
-![Profile Views](https://komarev.com/ghpvc/?username=aerosol-can&label=Profile%20views&color=0e75b6&style=flat)
 
 Welcome to my profile!
 ========================
