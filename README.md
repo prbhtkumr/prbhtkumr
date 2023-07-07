@@ -1,9 +1,8 @@
-<<<<<<< HEAD
 <h1>Hey.</h1>
 
-<br>
 <h4>$ whoami</h4>
-<p>
+<div style="display:inline-block">
+<p style="display: inline;">
   <samp>
     🧭 Devops Engineer / Security <br>
     :house_with_garden: Currently based in India 🇮🇳 <br>
@@ -15,6 +14,9 @@
     :cloud: TryHackMe: <a href="https://tryhackme.com/p/Cthulhu/">Cthulhu</a> <br>
     </samp>
 </p>
+
+![gif](https://i.imgur.com/BjgErxV.gif)
+</div>
 
 <p align="center">
 <img  alt="huin" height="32px" src="https://cdn.discordapp.com/emojis/766456038530482177.gif?size=64"/>
