@@ -2,7 +2,7 @@
 <h4>$ whoami</h4>
 <p>
   <samp>
-    🧭 Devops/Security Engineer <br>
+    🧭 DevOps/Security Engineer <br>
     :house_with_garden: Currently based in India 🇮🇳 <br>
     :school: CSE VCET(MU) [2025] <br>
     :email:	<a href="mailto:prbh47kumr@gmail.com
@@ -34,7 +34,7 @@
     <img  alt="AWS" height="32px" src="./media/aws.png"/>
 </p>
 
-![GitHub 3D Contribution Graph](./profile-3d-contrib/profile-green-animate.svg)
+![GitHub 3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
 </details>
 
