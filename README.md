@@ -34,7 +34,6 @@
     <img  alt="AWS" height="32px" src="./media/aws.png"/>
 </p>
 
-![GitHub 3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
 </details>
 
@@ -44,6 +43,8 @@
 ![GitHub metrics](https://metrics.lecoq.io/aerosol-can)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aerosol-can&label=Profile%20views&color=0e75b6&style=flat)
+
+![GitHub 3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
 </details>
 
