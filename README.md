@@ -7,7 +7,7 @@
     :school: CSE VCET(MU) [2025] <br>
     :email:	<a href="mailto:prbh47kumr@gmail.com
 ">prbh47kumr@gmail.com</a> <br>
-    :briefcase: LinkedIn:  <a href="https://www.linkedin.com/in/prbhtkumar/">Prabhat Kumar</a> <br>
+    :briefcase: LinkedIn:  <a href="https://www.linkedin.com/in/prabhatrahi/">Prabhat Rahi</a> <br>
     :bird: Twitter:  <a href="https://twitter.com/a3r0s0l_can">a3r0s0l_can</a> <br>
     :cloud: TryHackMe: <a href="https://tryhackme.com/p/Cthulhu/">Cthulhu</a> <br>
   </samp>
