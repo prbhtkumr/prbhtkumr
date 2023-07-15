@@ -27,6 +27,7 @@
 <summary><kbd>some info</kbd></summary>
 <h4>currently learning </h4>
 <p>
+    <img  alt="Pytorch" height="32px" src="./media/pytorch.png"/>
     <img  alt="React" height="32px" src="./media/react.png"/>
     <img  alt="Docker" height="32px" src="./media/docker.png"/>
     <img  alt="Javscript" height="32px" src="./media/javascript.png"/>
