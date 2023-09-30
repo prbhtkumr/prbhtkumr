@@ -41,9 +41,9 @@
 <details>
 <summary><kbd>more info</kbd></summary>
 
-![GitHub metrics](https://metrics.lecoq.io/aerosol-can)
+![GitHub metrics](https://metrics.lecoq.io/prbhtkumr)
 
-![Profile Views](https://komarev.com/ghpvc/?username=aerosol-can&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=prbhtkumr&label=Profile%20views&color=0e75b6&style=flat)
 
 ![GitHub 3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
@@ -51,6 +51,6 @@
 
 ---------
 <br>
-<a href="https://www.buymeacoffee.com/prabhatkumar" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.buymeacoffee.com/prbhtkumr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G7MS0SJ)
