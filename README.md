@@ -4,7 +4,7 @@
   <samp>
     🧭 DevOps/Security Engineer <br>
     :house_with_garden: Currently based in India 🇮🇳 <br>
-    :school: CSE VCET(MU) [2025] <br>
+    :school: CSE VCET(MU) [2026] <br>
     :email:	<a href="mailto:prbh47kumr@gmail.com
 ">prbh47kumr@gmail.com</a> <br>
     :briefcase: LinkedIn:  <a href="https://www.linkedin.com/in/prbhtkumr/">Prabhat Kumar</a> <br>
