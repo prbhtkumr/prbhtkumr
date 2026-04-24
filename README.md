@@ -3,7 +3,7 @@
 <p>
   <samp>
     🧭 DevOps/Security Engineer <br>
-    :house_with_garden: Currently based in India 🇮🇳 <br>
+    :house_with_garden: Currently based in Mumbai 🇮🇳 <br>
     :school: CSE VCET(MU) [2027] <br>
     :email:	<a href="mailto:hi@prbhtkumr.xyz
 ">hi@prbhtkumr.xyz</a> <br>
@@ -36,17 +36,36 @@
 
 
 </details>
-
 <details>
-<summary><kbd>more info</kbd></summary>
+ <summary><kbd>more ?</kbd></summary>
+<a href="https://github.com/prbhtkumr">
+  <img align="center" width="49%" src="./header.svg" />
+</a>
+<br/>
+<a href="https://github.com/prbhtkumr">
+  <img align="center" width="49%" src="./repositories.svg" />
+</a>
+<a href="https://github.com/prbhtkumr">
+  <img align="center" width="49%" src="./acti_comm.svg" />
+</a>
 
-![GitHub metrics](https://metrics.lecoq.io/prbhtkumr)
+<a href="https://github.com/prbhtkumr">
+  <img align="center" width="49%" src="./iso_calender.svg" />
+</a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=prbhtkumr&label=Profile%20views&color=0e75b6&style=flat)
+<a href="https://github.com/prbhtkumr">
+    <img align="center" width="49%" src="./issue_pr_lang.svg" />
+</a>
 
-![GitHub 3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
-
-</details>
+<a href="https://github.com/prbhtkumr">
+  <img align="center" width="49%" src="./github-habits.svg" />
+</a>
+<a href="https://github.com/prbhtkumr">
+    <img align="center" width="49%" src="./achievements.svg" />
+</a>
+  <a href="https://github.com/prbhtkumr">
+    <img align="center" width="49%" src="https://github.com/prbhtkumr/prbhtkumr/blob/main/isocalendar.svg" alt="isocalendar" width="50%">
+  </a>
 
 ---------
 <br>
