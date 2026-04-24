@@ -6,7 +6,7 @@
     :house_with_garden: Currently based in India 🇮🇳 <br>
     :school: CSE VCET(MU) [2027] <br>
     :email:	<a href="mailto:hi@prbhtkumr.xyz
-">prbh47kumr@gmail.com</a> <br>
+">hi@prbhtkumr.xyz</a> <br>
     :briefcase: LinkedIn:  <a href="https://www.linkedin.com/in/prbhtkumr/">Prabhat Kumar</a> <br>
     :bird: Twitter:  <a href="https://twitter.com/prbhtkumr">prbhtkumr</a> <br>
     :cloud: TryHackMe: <a href="https://tryhackme.com/p/Cthulhu/">Cthulhu</a> <br>
