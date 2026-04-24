@@ -9,7 +9,6 @@
 ">hi@prbhtkumr.xyz</a> <br>
     :briefcase: LinkedIn:  <a href="https://www.linkedin.com/in/prbhtkumr/">Prabhat Kumar</a> <br>
     :bird: Twitter:  <a href="https://twitter.com/prbhtkumr">prbhtkumr</a> <br>
-    :cloud: TryHackMe: <a href="https://tryhackme.com/p/Cthulhu/">Cthulhu</a> <br>
   </samp>
 </p>
 
