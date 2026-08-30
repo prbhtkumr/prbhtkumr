@@ -1,4 +1,6 @@
 # Hey!
+
+<div align="right">
 <h4>$ whoami</h4>
 <p>
   <samp>
@@ -11,6 +13,12 @@
     :bird: <a href="https://twitter.com/prbhtkumr">Twitter</a> <br>
   </samp>
 </p>
+</div>
+
+<div>
+  <img align="right" src="./media/mugshot.jpg" width="150" alt="mugshot" />
+</div>
+
 
 <p align="center">
   <img  alt="huin" height="32px" src="https://cdn.discordapp.com/emojis/766456038530482177.gif?size=64"/>
@@ -18,18 +26,18 @@
   <img  alt="Git" height="32px" src="./media/git.png"/>
   <img  alt="Python" height="32px" src="./media/python.png"/>
   <img  alt="Arch" height="32px" src="./media/arch.png"/>
-  <img  alt="Neovim" height="32px" src="./media/neovim.png"/>
   <img  alt="VSCode" height="32px" src="./media/vscode.png"/>
+  <img  alt="Doom" height="32px" src="./media/doom.png"/>
 </p>
 
 <details>
 <summary><kbd>some info</kbd></summary>
 <h4>currently learning </h4>
 <p>
-    <img  alt="Pytorch" height="32px" src="./media/pytorch.png"/>
-    <img  alt="React" height="32px" src="./media/react.png"/>
-    <img  alt="Docker" height="32px" src="./media/docker.png"/>
-    <img  alt="Javscript" height="32px" src="./media/javascript.png"/>
+    <img  alt="PNPT" height="32px" src="./media/pnpt.png"/>
+    <img  alt="Go" height="32px" src="./media/go.png"/>
+    <img  alt="Podman" height="32px" src="./media/docker.png"/>
+    <img  alt="Kubernetes" height="32px" src="./media/javascript.png"/>
     <img  alt="Rust" height="32px" src="./media/rust.png"/>
     <img  alt="AWS" height="32px" src="./media/aws.png"/>
 </p>
