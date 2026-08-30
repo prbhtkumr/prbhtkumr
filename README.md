@@ -34,8 +34,8 @@
 <p>
     <img  alt="PNPT" height="32px" src="./media/pnpt.png"/>
     <img  alt="Go" height="32px" src="./media/go.png"/>
-    <img  alt="Podman" height="32px" src="./media/docker.png"/>
-    <img  alt="Kubernetes" height="32px" src="./media/javascript.png"/>
+    <img  alt="Podman" height="32px" src="./media/Podman.png"/>
+    <img  alt="Kubernetes" height="32px" src="./media/kubernetes.png"/>
     <img  alt="Rust" height="32px" src="./media/rust.png"/>
     <img  alt="AWS" height="32px" src="./media/aws.png"/>
 </p>
