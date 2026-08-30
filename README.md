@@ -1,33 +1,31 @@
 # Hey!
 
-<div align="left">
-<h4>$ whoami</h4>
-<p>
-  <samp>
-    🧭 DevOps/Security Engineer <br>
-    :house_with_garden: Currently based in Mumbai 🇮🇳 <br>
-    :school: CSE VCET(MU) [2027] <br>
-    :email:	<a href="mailto:hi@prbhtkumr.xyz
-">hi@prbhtkumr.xyz</a> <br>
-    :briefcase: <a href="https://www.linkedin.com/in/prbhtkumr/">LinkedIn</a> <br>
-    :bird: <a href="https://twitter.com/prbhtkumr">Twitter</a> <br>
-  </samp>
-</p>
-</div>
-
 <div>
   <img align="right" src="./media/mugshot.jpg" width="200" alt="mugshot" />
+  
+  <h4>$ whoami</h4>
+  <p>
+    <samp>
+      🧭 DevOps/Security Engineer <br>
+      :house_with_garden: Currently based in Mumbai 🇮🇳 <br>
+      :school: CSE VCET(MU) [2027] <br>
+      :email:    <a href="mailto:hi@prbhtkumr.xyz">hi@prbhtkumr.xyz</a> <br>
+      :briefcase: <a href="https://www.linkedin.com/in/prbhtkumr/">LinkedIn</a> <br>
+      :bird: <a href="https://twitter.com/prbhtkumr">Twitter</a> <br>
+    </samp>
+  </p>
 </div>
 
+<br clear="both" />
 
 <p align="center">
-  <img  alt="huin" height="32px" src="https://cdn.discordapp.com/emojis/766456038530482177.gif?size=64"/>
-  <img  alt="Shell" height="32px" src="./media/shell.png"/>
-  <img  alt="Git" height="32px" src="./media/git.png"/>
-  <img  alt="Python" height="32px" src="./media/python.png"/>
-  <img  alt="Arch" height="32px" src="./media/arch.png"/>
-  <img  alt="VSCode" height="32px" src="./media/vscode.png"/>
-  <img  alt="Doom" height="32px" src="./media/doom.png"/>
+  <img  alt="huin" height="32px" src="https://cdn.discordapp.com/emojis/766456038530482177.gif?size=64"/>
+  <img  alt="Shell" height="32px" src="./media/shell.png"/>
+  <img  alt="Git" height="32px" src="./media/git.png"/>
+  <img  alt="Python" height="32px" src="./media/python.png"/>
+  <img  alt="Arch" height="32px" src="./media/arch.png"/>
+  <img  alt="VSCode" height="32px" src="./media/vscode.png"/>
+  <img  alt="Doom" height="32px" src="./media/doom.png"/>
 </p>
 
 <details>
