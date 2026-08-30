@@ -1,6 +1,6 @@
 # Hey!
 
-<div align="right">
+<div align="left">
 <h4>$ whoami</h4>
 <p>
   <samp>
@@ -16,7 +16,7 @@
 </div>
 
 <div>
-  <img align="right" src="./media/mugshot.jpg" width="150" alt="mugshot" />
+  <img align="right" src="./media/mugshot.jpg" width="200" alt="mugshot" />
 </div>
 
 
