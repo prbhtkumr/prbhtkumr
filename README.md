@@ -24,7 +24,7 @@
   <img  alt="Git" height="32px" src="./media/git.png"/>
   <img  alt="Python" height="32px" src="./media/python.png"/>
   <img  alt="Arch" height="32px" src="./media/arch.png"/>
-  <img  alt="VSCode" height="32px" src="./media/vscode.png"/>
+  <img  alt="Zap" height="32px" src="./media/zap.png"/>
   <img  alt="Doom" height="32px" src="./media/doom.png"/>
 </p>
 
