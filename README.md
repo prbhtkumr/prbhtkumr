@@ -9,7 +9,7 @@
       🧭 DevOps/Security Engineer <br>
       :house_with_garden: Currently based in Mumbai 🇮🇳 <br>
       :school: CSE VCET(MU) [2027] <br>
-      :email:    <a href="mailto:hi@prbhtkumr.xyz">hi@prbhtkumr.xyz</a> <br>
+      :email:    <a href="mailto:hi@prbhtkumr.xyz">hi@prbhtkumr.xyz</a> (come say hi) <br> 
       :briefcase: <a href="https://www.linkedin.com/in/prbhtkumr/">LinkedIn</a> <br>
       :bird: <a href="https://twitter.com/prbhtkumr">Twitter</a> <br>
     </samp>
@@ -26,6 +26,8 @@
   <img  alt="Arch" height="32px" src="./media/arch.png"/>
   <img  alt="Zap" height="32px" src="./media/zap.png"/>
   <img  alt="Doom" height="32px" src="./media/doom.png"/>
+  <img  alt="Neurodiversity" height="32px" width="52px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Pastel_Neurodiversity_Symbol.png"/>
+  
 </p>
 
 <details>
