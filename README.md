@@ -1,7 +1,7 @@
 # Hey!
 
 <div>
-  <img align="right" src="./media/profile.jpg" width="200" alt="profile" />
+  <img align="right" src="./media/mugshot.png" height="220" alt="mugshot" />
   
   <h4>$ whoami</h4>
   <p>
