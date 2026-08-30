@@ -34,8 +34,7 @@
 <summary><kbd>some info</kbd></summary>
 <h4>currently learning </h4>
 <p>
-    <img  alt="PNPT" height="32px" src="./media/pnpt.png"/>
-    <img  alt="Go" height="32px" src="./media/go.png"/>
+    <img  alt="Go" height="32px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Go_gopher_mascot_bw.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"/>
     <img  alt="Podman" height="32px" src="./media/Podman.png"/>
     <img  alt="Kubernetes" height="32px" src="./media/kubernetes.png"/>
     <img  alt="Rust" height="32px" src="./media/rust.png"/>
